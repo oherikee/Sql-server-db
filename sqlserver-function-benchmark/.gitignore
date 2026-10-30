@@ -1,0 +1,15 @@
+# Arquivos locais / editor
+*.user
+*.suo
+.vscode/
+.idea/
+
+# Logs e saídas
+*.log
+*.xel
+*.csv
+*.xml
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
